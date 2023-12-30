@@ -1,0 +1,4 @@
+tuple (3 number)- pie graph
+tuple(1 text 1 number)- rectangular graph 
+tuple(number) - triangular graph
+tuple(text) - text only 
